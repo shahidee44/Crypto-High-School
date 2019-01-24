@@ -30,3 +30,5 @@ Bitcoin, Dash, Dogecoin, Ethereum, Ethereum Classic, Monero, PIVX.
 1. Cards Management
 2. Users Management
 3. Game
+
+### Forked from master branch to continue work on code in private
